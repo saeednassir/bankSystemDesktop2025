@@ -10,6 +10,6 @@ Database: sql server
 
 <a href="https://github.com/saeednassir/Bank-System-Desktop/blob/main/Forms/frmLogin.cs">Login</a>
 <br>
-<img align="" alt="saeednassir" width="300" height="600" src="https://github.com/saeednassir/Bank-System-Desktop/blob/main/image/images%20myApp/01-Login.png"/>
+<img align="" alt="saeednassir" width="300" height="600" src="BankOfPalestineSystemDesktopAppPresentationLayer/images/Login.png"/>
 
 <br>
