@@ -7,9 +7,3 @@ Database: sql server
 <br>
 
 <hr>
-
-<a href="https://github.com/saeednassir/Bank-System-Desktop/blob/main/Forms/frmLogin.cs">Login</a>
-<br>
-<img align="" alt="saeednassir" width="300" height="600" src="BankOfPalestineSystemDesktopAppPresentationLayer/images/Login.png"/>
-
-<br>
