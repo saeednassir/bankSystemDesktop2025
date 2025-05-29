@@ -1,0 +1,52 @@
+# Visual Studio 2015/2017/2019/2022
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+.vs/
+*.exe
+*.pdb
+*.dll
+*.exp
+*.lib
+*.mdf
+*.ldf
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+NuGet.config
+nuget.exe
+
+# Resharper
+*.DotSettings
+_ReSharper.*/
+
+# StyleCop
+StyleCop.Cache
+
+# Test Results
+TestResults/
+*.trx
+
+# Misc
+*.log
+*.orig
+*.bak
+*.scc
+
+# Rider
+.idea/
+*.iml
+
+# VS Code
+.vscode/
